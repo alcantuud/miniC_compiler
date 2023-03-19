@@ -1,0 +1,7 @@
+Error en la linea 5: variable x no declarada
+Error en la linea 6: variable y no declarada
+Error en la linea 7: variable z no declarada
+----------------------
+Errores lexicos: 0
+Errores sintacticos: 0
+Errores semanticos: 3

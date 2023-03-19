@@ -1,0 +1,8 @@
+ERROR: entero demasiado grande en linea 8: 123456789012
+ERROR: identificador demasiado largo en linea 11: _123456789012345678
+ERROR: caracteres no validos en linea 14: #@$%&
+ERROR: cadena sin cerrar en linea 17
+ERROR: comentario no cerrado iniciado en linea 21
+----------------------
+Errores lexicos: 5
+
